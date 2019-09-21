@@ -1,0 +1,14 @@
+C:\Users\jujua\source\repos\filas\bin\Debug\filas.exe.config
+C:\Users\jujua\source\repos\filas\bin\Debug\filas.exe
+C:\Users\jujua\source\repos\filas\bin\Debug\filas.pdb
+C:\Users\jujua\source\repos\filas\obj\Debug\filas.csprojAssemblyReference.cache
+C:\Users\jujua\source\repos\filas\obj\Debug\filas.csproj.CoreCompileInputs.cache
+C:\Users\jujua\source\repos\filas\obj\Debug\filas.exe
+C:\Users\jujua\source\repos\filas\obj\Debug\filas.pdb
+C:\Temp\filas\bin\Debug\filas.exe.config
+C:\Temp\filas\bin\Debug\filas.exe
+C:\Temp\filas\bin\Debug\filas.pdb
+C:\Temp\filas\obj\Debug\filas.csprojAssemblyReference.cache
+C:\Temp\filas\obj\Debug\filas.csproj.CoreCompileInputs.cache
+C:\Temp\filas\obj\Debug\filas.exe
+C:\Temp\filas\obj\Debug\filas.pdb
